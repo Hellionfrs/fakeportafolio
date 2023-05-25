@@ -154,7 +154,7 @@ img {
   width: 100%;
   height: 100vh;
   background-color: #796cf3;
-  background-image: linear-gradient(62deg, #3a3d40 0%, #8532d8 100%);
+  background-image: linear-gradient(62deg, #3a3d40 0%, #736680 100%);
 }
 
 .welcome-section > p {
@@ -312,7 +312,7 @@ footer {
   justify-content: space-evenly;
   padding: 2rem;
   background: var(--main-gray);
-  border-top: 4px solid var(--main-red);
+  border-top: 4px solid rgba(83, 68, 214, 0.5);
 }
 
 footer > p {
